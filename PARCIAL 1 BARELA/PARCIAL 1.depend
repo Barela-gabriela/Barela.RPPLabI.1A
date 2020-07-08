@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1594049113 source:c:\users\lauta\desktop\parcial n1 primera parte\bici.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bici.h"
+	"utn.h"
+	"informes.h"
+
+1593648873 c:\users\lauta\desktop\parcial n1 primera parte\bici.h
+
+1593646379 c:\users\lauta\desktop\parcial n1 primera parte\utn.h
+
+1594180943 c:\users\lauta\desktop\parcial n1 primera parte\informes.h
+	"bici.h"
+	"utn.h"
+	"trabajo.h"
+
+1593850186 c:\users\lauta\desktop\parcial n1 primera parte\trabajo.h
+	"bici.h"
+
+1594183298 source:c:\users\lauta\desktop\parcial n1 primera parte\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"informes.h"
+	"utn.h"
+	"trabajo.h"
+	"bici.h"
+
+1594181486 source:c:\users\lauta\desktop\parcial n1 primera parte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"trabajo.h"
+	"bici.h"
+
+1594183563 source:c:\users\lauta\desktop\parcial n1 primera parte\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bici.h"
+	"trabajo.h"
+	"utn.h"
+
+1593646379 source:c:\users\lauta\desktop\parcial n1 primera parte\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1594219198 source:c:\users\lauta\desktop\parcial 1 barela\bici.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bici.h"
+	"utn.h"
+	"informes.h"
+
+1594219591 c:\users\lauta\desktop\parcial 1 barela\bici.h
+
+1593646379 c:\users\lauta\desktop\parcial 1 barela\utn.h
+
+1594220872 c:\users\lauta\desktop\parcial 1 barela\informes.h
+	"bici.h"
+	"utn.h"
+	"trabajo.h"
+
+1594186344 c:\users\lauta\desktop\parcial 1 barela\trabajo.h
+	"bici.h"
+
+1594219015 source:c:\users\lauta\desktop\parcial 1 barela\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"trabajo.h"
+	"bici.h"
+
+1594217360 source:c:\users\lauta\desktop\parcial 1 barela\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bici.h"
+	"trabajo.h"
+	"utn.h"
+
+1593646379 source:c:\users\lauta\desktop\parcial 1 barela\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1594220946 source:c:\users\lauta\desktop\parcial 1 barela\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"informes.h"
+	"utn.h"
+	"trabajo.h"
+	"bici.h"
+
+1594211419 source:c:\users\vaio\desktop\parcial 1 barela\bici.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bici.h"
+	"utn.h"
+	"informes.h"
+
+1594215842 c:\users\vaio\desktop\parcial 1 barela\bici.h
+
+1593646379 c:\users\vaio\desktop\parcial 1 barela\utn.h
+
+1594186288 c:\users\vaio\desktop\parcial 1 barela\informes.h
+	"bici.h"
+	"utn.h"
+	"trabajo.h"
+
+1594186344 c:\users\vaio\desktop\parcial 1 barela\trabajo.h
+	"bici.h"
+
+1594216134 source:c:\users\vaio\desktop\parcial 1 barela\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"trabajo.h"
+	"bici.h"
+
+1594186370 source:c:\users\vaio\desktop\parcial 1 barela\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bici.h"
+	"trabajo.h"
+	"utn.h"
+
+1593646379 source:c:\users\vaio\desktop\parcial 1 barela\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1594211434 source:c:\users\vaio\desktop\parcial 1 barela\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"informes.h"
+	"utn.h"
+	"trabajo.h"
+	"bici.h"
+
