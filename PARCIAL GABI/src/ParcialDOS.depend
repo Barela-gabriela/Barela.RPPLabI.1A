@@ -1,0 +1,393 @@
+# depslib dependency file v1.0
+1561602767 source:e:\usuarios\escritorio\utn1cuatri\practicas\parcialdos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"menu.h"
+
+1561601604 source:e:\usuarios\escritorio\utn1cuatri\practicas\parcialdos\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561591335 e:\usuarios\escritorio\utn1cuatri\practicas\parcialdos\linkedlist.h
+
+1557328529 e:\usuarios\escritorio\utn1cuatri\practicas\parcialdos\menu.h
+
+1561595901 source:e:\usuarios\escritorio\utn1cuatri\practicas\parcialdos\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1561603210 source:e:\usuarios\escritorio\utn1cuatri\practicas\parcialdos\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleado.h"
+	"controller.h"
+	"parser.h"
+
+1561601952 source:e:\usuarios\escritorio\utn1cuatri\practicas\parcialdos\empleado.c
+	"empleado.h"
+	"stdio.h"
+	<stdlib.h>
+	<string.h>
+
+1561601840 e:\usuarios\escritorio\utn1cuatri\practicas\parcialdos\empleado.h
+
+1561602168 source:e:\usuarios\escritorio\utn1cuatri\practicas\parcialdos\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleado.h"
+
+1561601376 e:\usuarios\escritorio\utn1cuatri\practicas\parcialdos\controller.h
+
+1561599745 e:\usuarios\escritorio\utn1cuatri\practicas\parcialdos\parser.h
+
+1561643881 source:d:\ls\parcialdos-master\parcialdos\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleado.h"
+	"controller.h"
+	"parser.h"
+
+1561643448 d:\ls\parcialdos-master\parcialdos\linkedlist.h
+
+1561643827 d:\ls\parcialdos-master\parcialdos\empleado.h
+
+1561643827 d:\ls\parcialdos-master\parcialdos\controller.h
+
+1561636504 d:\ls\parcialdos-master\parcialdos\parser.h
+
+1561643827 source:d:\ls\parcialdos-master\parcialdos\empleado.c
+	"empleado.h"
+	"stdio.h"
+	<stdlib.h>
+	<string.h>
+
+1561643342 source:d:\ls\parcialdos-master\parcialdos\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561643827 source:d:\ls\parcialdos-master\parcialdos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"menu.h"
+
+1561636504 d:\ls\parcialdos-master\parcialdos\menu.h
+
+1561638518 source:d:\ls\parcialdos-master\parcialdos\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleado.h"
+
+1561641631 source:d:\ls\parcialdos-master\parcialdos\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1561643942 source:e:\usuarios\escritorio\parcialdos-mastera\parcialdos\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleado.h"
+	"controller.h"
+	"parser.h"
+
+1561643942 e:\usuarios\escritorio\parcialdos-mastera\parcialdos\linkedlist.h
+
+1561643942 e:\usuarios\escritorio\parcialdos-mastera\parcialdos\empleado.h
+
+1561643942 e:\usuarios\escritorio\parcialdos-mastera\parcialdos\controller.h
+
+1561643942 e:\usuarios\escritorio\parcialdos-mastera\parcialdos\parser.h
+
+1561644193 source:e:\usuarios\escritorio\parcialdos-mastera\parcialdos\empleado.c
+	"empleado.h"
+	"stdio.h"
+	<stdlib.h>
+	<string.h>
+
+1561643942 source:e:\usuarios\escritorio\parcialdos-mastera\parcialdos\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561643942 source:e:\usuarios\escritorio\parcialdos-mastera\parcialdos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"menu.h"
+
+1561643942 e:\usuarios\escritorio\parcialdos-mastera\parcialdos\menu.h
+
+1561643942 source:e:\usuarios\escritorio\parcialdos-mastera\parcialdos\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1561643942 source:e:\usuarios\escritorio\parcialdos-mastera\parcialdos\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleado.h"
+
+1561644400 source:c:\users\vaio\desktop\parcialdos-master\parcialdos\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleado.h"
+	"controller.h"
+	"parser.h"
+
+1561644400 c:\users\vaio\desktop\parcialdos-master\parcialdos\linkedlist.h
+
+1561644400 c:\users\vaio\desktop\parcialdos-master\parcialdos\empleado.h
+
+1561644400 c:\users\vaio\desktop\parcialdos-master\parcialdos\controller.h
+
+1561644400 c:\users\vaio\desktop\parcialdos-master\parcialdos\parser.h
+
+1561644400 source:c:\users\vaio\desktop\parcialdos-master\parcialdos\empleado.c
+	"empleado.h"
+	"stdio.h"
+	<stdlib.h>
+	<string.h>
+
+1561644400 source:c:\users\vaio\desktop\parcialdos-master\parcialdos\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561644400 source:c:\users\vaio\desktop\parcialdos-master\parcialdos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"menu.h"
+
+1561644400 c:\users\vaio\desktop\parcialdos-master\parcialdos\menu.h
+
+1561644400 source:c:\users\vaio\desktop\parcialdos-master\parcialdos\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1561644400 source:c:\users\vaio\desktop\parcialdos-master\parcialdos\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleado.h"
+
+1593608422 source:c:\users\vaio\desktop\linkedlist_cascara_v8 - copia\src\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleado.h"
+	"controller.h"
+	"parser.h"
+
+1561644400 c:\users\vaio\desktop\linkedlist_cascara_v8 - copia\src\linkedlist.h
+
+1593605373 c:\users\vaio\desktop\linkedlist_cascara_v8 - copia\src\empleado.h
+
+1561644400 c:\users\vaio\desktop\linkedlist_cascara_v8 - copia\src\controller.h
+
+1561644400 c:\users\vaio\desktop\linkedlist_cascara_v8 - copia\src\parser.h
+
+1593606287 source:c:\users\vaio\desktop\linkedlist_cascara_v8 - copia\src\empleado.c
+	"empleado.h"
+	"stdio.h"
+	<stdlib.h>
+	<string.h>
+
+1593608422 source:c:\users\vaio\desktop\linkedlist_cascara_v8 - copia\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"menu.h"
+
+1561644400 c:\users\vaio\desktop\linkedlist_cascara_v8 - copia\src\menu.h
+
+1593607411 source:c:\users\vaio\desktop\linkedlist_cascara_v8 - copia\src\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1593605803 source:c:\users\vaio\desktop\linkedlist_cascara_v8 - copia\src\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleado.h"
+
+1593551434 source:c:\users\vaio\desktop\linkedlist_cascara_v8 - copia\src\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1595384352 source:c:\users\lauta\desktop\linkedlist_cascara_v8 - copia\src\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleado.h"
+	"controller.h"
+	"parser.h"
+
+1561644400 c:\users\lauta\desktop\linkedlist_cascara_v8 - copia\src\linkedlist.h
+
+1595382676 c:\users\lauta\desktop\linkedlist_cascara_v8 - copia\src\empleado.h
+
+1561644400 c:\users\lauta\desktop\linkedlist_cascara_v8 - copia\src\controller.h
+
+1561644400 c:\users\lauta\desktop\linkedlist_cascara_v8 - copia\src\parser.h
+
+1595386071 source:c:\users\lauta\desktop\linkedlist_cascara_v8 - copia\src\empleado.c
+	"empleado.h"
+	"stdio.h"
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1595377594 source:c:\users\lauta\desktop\linkedlist_cascara_v8 - copia\src\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1595381539 source:c:\users\lauta\desktop\linkedlist_cascara_v8 - copia\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"menu.h"
+	<time.h>
+
+1561644400 c:\users\lauta\desktop\linkedlist_cascara_v8 - copia\src\menu.h
+
+1595378419 source:c:\users\lauta\desktop\linkedlist_cascara_v8 - copia\src\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1595383409 source:c:\users\lauta\desktop\linkedlist_cascara_v8 - copia\src\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleado.h"
+
+1595473266 source:c:\users\lauta\desktop\parcial gabi\src\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleado.h"
+	"controller.h"
+	"parser.h"
+
+1595471520 c:\users\lauta\desktop\parcial gabi\src\linkedlist.h
+
+1595471888 c:\users\lauta\desktop\parcial gabi\src\empleado.h
+
+1595472818 c:\users\lauta\desktop\parcial gabi\src\controller.h
+
+1561644400 c:\users\lauta\desktop\parcial gabi\src\parser.h
+
+1595473386 source:c:\users\lauta\desktop\parcial gabi\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"menu.h"
+	<time.h>
+	"empleado.h"
+
+1561644400 c:\users\lauta\desktop\parcial gabi\src\menu.h
+
+1595378419 source:c:\users\lauta\desktop\parcial gabi\src\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1595383409 source:c:\users\lauta\desktop\parcial gabi\src\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleado.h"
+
+1595471503 source:c:\users\lauta\desktop\parcial gabi\src\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1595473447 source:c:\users\lauta\desktop\parcial gabi\src\empleado.c
+	"empleado.h"
+	"stdio.h"
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1596032006 source:c:\users\vaio\desktop\parcial gabi\src\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleado.h"
+	"controller.h"
+	"parser.h"
+
+1595471520 c:\users\vaio\desktop\parcial gabi\src\linkedlist.h
+
+1596030452 c:\users\vaio\desktop\parcial gabi\src\empleado.h
+
+1596032036 c:\users\vaio\desktop\parcial gabi\src\controller.h
+
+1561644400 c:\users\vaio\desktop\parcial gabi\src\parser.h
+
+1596030451 source:c:\users\vaio\desktop\parcial gabi\src\empleado.c
+	"empleado.h"
+	"stdio.h"
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1596026081 source:c:\users\vaio\desktop\parcial gabi\src\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1596031695 source:c:\users\vaio\desktop\parcial gabi\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"menu.h"
+	<time.h>
+	"empleado.h"
+
+1596024473 c:\users\vaio\desktop\parcial gabi\src\menu.h
+
+1596031759 source:c:\users\vaio\desktop\parcial gabi\src\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1596030452 source:c:\users\vaio\desktop\parcial gabi\src\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"empleado.h"
+
